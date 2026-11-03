@@ -97,7 +97,7 @@ v21.CharacterAdded:Connect(function(v370)
         if 1 == v371 then
             v24 = v23.RigType == Enum.HumanoidRigType.R6
             if v26 then
-                v26.Text = (v24 and "AYAN 🔥 EMOTES (R6)") or "AYAN 🔥 emotes"
+                v26.Text = (v24 and " 🔥 AYAN EMOTES 🔥 (R6)") or "🔥 AYAN  emotes 🔥"
             end
             v371 = 7 - 5
         end
@@ -487,7 +487,7 @@ v26 = v77
 v77.Size = UDim2.new(1 + 0, 0 - 0, 0, v11("Y", 36))
 v77.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 v77.BackgroundTransparency = 0.5 + 0
-v77.Text = (v24 and "AYAN 🔥 EMOTES (R6)") or "AYAN 🔥emotes"
+v77.Text = (v24 and " 🔥 AYAN  EMOTES 🔥 (R6)") or " 🔥 AYAN emotes 🔥 "
 v77.TextColor3 = Color3.new(1, 1, 1)
 v77.Font = Enum.Font.GothamBold
 v77.TextScaled = true
@@ -2360,7 +2360,7 @@ v327.Parent = v48
 v327.Enabled = true
 local v332 = Instance.new("TextButton")
 v332.Parent = v327
-v332.Text = "🔱"
+v332.Text = "🔥"
 v332.Font = Enum.Font.GothamSemibold
 v332.TextScaled = true
 v332.Size = UDim2.new(0, 50, 0 - 0, 16 + 34)
